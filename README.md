@@ -20,3 +20,7 @@ What we did, step-by-step:
 - In Mage, updated yaml configuration with service account details (e.g., project ID, private key, email, etc.).
 - Used Transformation logic to retrieve tables, process and load them into BigQuery.
 - Designed interactive dashboards using Google Data Studio.
+
+  
+
+https://lucid.app/lucidchart/692367d8-60c0-4e40-9152-67b23e9204fd/edit?viewport_loc=-893%2C-404%2C2573%2C1558%2C0_0&invitationId=inv_0abb9883-4d98-40e1-bfd3-a3e6203bd93a
