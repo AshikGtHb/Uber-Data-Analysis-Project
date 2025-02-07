@@ -23,4 +23,4 @@ What we did, step-by-step:
 
   
 
-https://lucid.app/lucidchart/692367d8-60c0-4e40-9152-67b23e9204fd/edit?viewport_loc=-893%2C-404%2C2573%2C1558%2C0_0&invitationId=inv_0abb9883-4d98-40e1-bfd3-a3e6203bd93a
+https://github.com/AshikGtHb/Uber-Data-Analysis-Project/issues/1
